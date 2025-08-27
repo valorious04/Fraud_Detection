@@ -39,3 +39,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 Scikit-learn
 XGBoost
 Imbalanced-learn (SMOTE)
+
+# Dataset
+Due to file size limits, the dataset is not stored in this repository.
+You can download it here: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
